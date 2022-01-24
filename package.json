@@ -1,0 +1,34 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "description": "This is a task manager project. We will use a lot of technologies in this project including express, sequelize, bcrypt, ejs, cookie parser, express session, express validator, validator, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambaqinejad/TaskManager.git"
+  },
+  "keywords": [
+    "express",
+    "sequelize",
+    "bcrypt",
+    "ejs",
+    "cookie-parser",
+    "express-session",
+    "express-validator",
+    "validator"
+  ],
+  "author": "Amir Hosein Baqinejad (ambaqinejad)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambaqinejad/TaskManager/issues"
+  },
+  "homepage": "https://github.com/ambaqinejad/TaskManager#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
